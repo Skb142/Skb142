@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sahil Behera
+# 👋 Hey there, I'm Sahil Kumar Behera
 
 🎓 Final-year CSE student @ KIIT University  
 💡 Curious mind exploring the intersections of code, systems, and impact  
