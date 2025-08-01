@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey there, I'm Sahil Behera
 
-<!--
-**Skb142/Skb142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year CSE student @ KIIT University  
+💡 Curious mind exploring the intersections of code, systems, and impact  
+⚙️ Into DevOps, Machine Learning, and writing clean, scalable software  
+🌍 Open-source believer | Tech + coffee enthusiast ☕  
+🧠 Forever learning, sometimes teaching  
+📫 Let's connect on [LinkedIn](https://linkedin.com/in/sahilkumarbehera14)
 
-Here are some ideas to get you started:
+> "Automate what you can, understand what you can't."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for dropping by! 😄
